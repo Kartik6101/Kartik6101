@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kartik Singh
 - 👀 I’m interested in electronics and programming
-- 🌱 I’m currently learning java
 - 📫 How to reach me kartik6101@gmail.com
 
 <!---
